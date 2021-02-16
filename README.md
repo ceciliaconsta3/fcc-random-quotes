@@ -1,2 +1,6 @@
-# fcc-random-quotes
-FreeCodeCamp React.js Random Quote Machine built  page
+# Random Quote Machine: Memento Mori
+FreeCodeCamp React.js-based random quote application
+
+<!-- TODO: add screenshot -->
+<!-- TODO: features  -->
+<!-- TODO: Tools/Technology -->
