@@ -1,0 +1,6 @@
+@mixin fancy-background($direction, $start,$finish) {
+    background: linear-gradient($direction, $start,$finish);
+    background: -moz-linear-gradient($direction, $start,$finish);
+    background: -o-linear-gradient($direction, $start,$finish);
+    background: -webkit-linear-gradient($direction, $start,$finish);
+}
